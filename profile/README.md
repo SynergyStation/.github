@@ -11,7 +11,7 @@ Im are focused on building clean, lightweight, and modern digital experiences. F
 Here are some of the key projects hosted within this organization:
 
 * **🌐 [benkormos.github.io](https://github.com/BenKormos/benkormos.github.io)** – A sleek, modern, and mobile-responsive personal link-in-bio and portfolio showcase built using HTML5 and CSS3.
-* **🎮 Voltix Server Ecosystem** – Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
+* **🎮 Voltix Server Ecosystem** [Website Template](https://github.com/BenKormos/voltix-website)– Repositories dedicated to our custom Minecraft server infrastructure, including website components and public landing pages like `voltix-website-2.0`.
 * **🛠️ Experimental Software & Utilities** – Various security concepts and entertainment tools built for educational and research purposes (e.g., `MalwareDatabase`).
 
 ## 🛠️ Tech Stack & Skills
@@ -30,7 +30,7 @@ Stay connected and follow our latest updates across platforms:
 * **GitHub:** [benbroc](https://github.com/benbroc)
 * **YouTube:** [benkormos](https://youtube.com/@benkormos)
 * **Twitch:** [benkormos](https://twitch.tv/benkormos)
-* **Discord:** [Server] (https://discord.gg/mAC5auv9aQ)
+* **Discord:** [Server](https://discord.gg/mAC5auv9aQ)
 
 ---
 © 2018 ~ 2026 BenKormos Development. Built with ❤️ and driven by open source.
