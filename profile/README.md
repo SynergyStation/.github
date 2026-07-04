@@ -1,10 +1,10 @@
-# 🏢 Welcome to BenKormos Development
+# 🏢 Welcome to SynergyStation Development
 
 Welcome to the official GitHub Organization for **BenKormos**. This space is dedicated to open-source software development, web applications, hosting architectures, and various software experiments.
 
-## 🚀 About Me
+## 🚀 About Us
 
-Im are focused on building clean, lightweight, and modern digital experiences. From personal landing pages and interactive portfolios to game servers and utility tools, this organization serves as the main hub for all public and collaborative repositories.
+We are focused on building clean, lightweight, and modern digital experiences. From personal landing pages and interactive portfolios to game servers and utility tools, this organization serves as the main hub for all public and collaborative repositories.
 
 ## 📂 Featured Projects
 
@@ -27,10 +27,8 @@ Our projects leverage a wide variety of modern technologies:
 
 Stay connected and follow our latest updates across platforms:
 
-* **GitHub:** [benbroc](https://github.com/benbroc)
-* **YouTube:** [benkormos](https://youtube.com/@benkormos)
-* **Twitch:** [benkormos](https://twitch.tv/benkormos)
+* **GitHub:** [benbroc](https://github.com/synergystation)
 * **Discord:** [Server](https://discord.gg/mAC5auv9aQ)
 
 ---
-© 2018 ~ 2026 BenKormos Development. Built with ❤️ and driven by open source.
+© 2026 SynergyStation Development. Built with ❤️ and driven by [OpenSource](https://github.com/synergystation/synergystation.github.io).
