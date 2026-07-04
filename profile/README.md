@@ -30,7 +30,7 @@ Stay connected and follow our latest updates across platforms:
 * **GitHub:** [benbroc](https://github.com/benbroc)
 * **YouTube:** [benkormos](https://youtube.com/@benkormos)
 * **Twitch:** [benkormos](https://twitch.tv/benkormos)
-* **Discord:** [Server] (https://discord.gg/mAC5auv9aQ)
+* **Discord:** [Server](https://discord.gg/mAC5auv9aQ)
 
 ---
 © 2018 ~ 2026 BenKormos Development. Built with ❤️ and driven by open source.
