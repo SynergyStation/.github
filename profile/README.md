@@ -1,11 +1,5 @@
 # 🏢 Welcome to SynergyStation Development
 
-<p align="center">
-  <img src="https://img.shields.io/github/owners/SynergyStation?style=for-the-badge&color=00f0ff" alt="Organization Owners">
-  <img src="https://img.shields.io/github/stars/SynergyStation/synergystation.github.io?style=for-the-badge&color=9d4edd" alt="Stars">
-  <img src="https://img.shields.io/discord/123456789012345678?style=for-the-badge&color=5865f2&label=Discord" alt="Discord">
-</p>
-
 Welcome to the official GitHub Organization founded by **BenKormos**. This ecosystem is a dedicated sandbox and launchpad for modern web applications, open-source architectures, automation tools, and hosting experiments. We focus on bridging clean code with cutting-edge cyber aesthetics.
 
 ---
