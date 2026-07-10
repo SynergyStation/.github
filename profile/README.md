@@ -1,4 +1,4 @@
-# 🏢 Welcome to SynergyStation Development
+# 🏢 Welcome to NETZNETZproductions
 
 Welcome to the official GitHub Organization founded by **BenKormos**. This ecosystem is a dedicated sandbox and launchpad for modern web applications, open-source architectures, automation tools, and hosting experiments. We focus on bridging clean code with cutting-edge cyber aesthetics.
 
@@ -6,7 +6,7 @@ Welcome to the official GitHub Organization founded by **BenKormos**. This ecosy
 
 ## 🚀 Vision & Mission
 
-At **SynergyStation**, we believe in building lightweight, responsive, and performance-driven digital experiences. Our focus lies on modular architectures, immersive web designs (from dashboard systems to glassmorphism interfaces), and automated infrastructures. This space serves as our centralized forge for collaborative projects, public templates, and community-driven repositories.
+At **NETZNETZproductions**, we believe in building lightweight, responsive, and performance-driven digital experiences. Our focus lies on modular architectures, immersive web designs (from dashboard systems to glassmorphism interfaces), and automated infrastructures. This space serves as our centralized forge for collaborative projects, public templates, and community-driven repositories.
 
 ---
 
@@ -15,11 +15,11 @@ At **SynergyStation**, we believe in building lightweight, responsive, and perfo
 Our portfolio covers core landing pages, game integration platforms, and interactive interfaces:
 
 ### 🌐 Core Web Interfaces
-*   **[synergystation.github.io](https://github.com/synergystation/synergystation.github.io)**
+*   **[website](https://github.com/NETZNETZproductions/synergystation.github.io)**
     *   *The Main Gateway.* A sleek, highly optimized, and mobile-responsive link-in-bio hub and portfolio showcase. Built natively utilizing modern CSS features to deliver smooth UX and premium responsiveness.
 
 ### 🎮 Gaming & Infrastructure
-*   **[Voltix Server Ecosystem](https://github.com/synergystation/voltix-website)**
+*   **[Voltix Server Website](https://github.com/NETZNETZproductions/voltix-website)**
     *   *The Game Hub.* Repositories tailored for custom server environments, featuring layout engines, data parsers, and public landing pages like the legacy and ongoing `voltix-website-2.0` projects.
 
 ---
@@ -42,12 +42,12 @@ Our development pipeline utilizes an optimized stack to ensure lightning-fast lo
 
 Stay synced with the network and track our runtime status across platforms:
 
-*   **GitHub Profiles:** [@benbroc](https://github.com/synergystation) (Main Core)
+*   **GitHub Profiles:** [@benbroc](https://github.com/NETZNETZproductions) (Main Core)
 *   **Discord Hub:** Join our [Community Server](https://discord.gg/mAC5auv9aQ) for live updates, support, and tech chat.
 *   **Main Landing Page:** Access the terminal at [synergystation.github.io](https://synergystation.github.io).
 
 ---
 <p align="center">
   <code>// SYSTEM STATUS: ACTIVE // DEPLOYED WITH PASSION //</code><br>
-  © 2026 SynergyStation Development. Driven by <a href="https://github.com/synergystation/synergystation.github.io">OpenSource Architecture</a>.
+  © 2026 NETZNETZproductions . Driven by <a href="https://github.com/NETZNETZproductions/website">OpenSource Architecture</a>.
 </p>
